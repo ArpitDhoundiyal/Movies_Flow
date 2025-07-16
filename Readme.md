@@ -1,4 +1,4 @@
-<h1 align="center">Android Movies App</h1>
+<h1 align="center"> Movies Flow</h1>
 <h1 align="center">MVVM + Dagger hilt + Retrofit + Coroutines + Flow + Paging3 + Moshi</h1>
  
 <h4 align="center">
@@ -6,7 +6,7 @@
 </h4>
 
 
-## 🌟 Features
+##  Features
 *   Slider of Upcoming Movies
 *   User can view and play trailers on youtube
 *   Shows a list of Discover movies, Genre, popular & toprated Movies
@@ -15,13 +15,13 @@
 *   Pagination and endless scrolling using Android paging library (for Discover Movies)
 *   Material design 3
 
-## 🚀 Our Goal
+##  Our Goal
 Create such application to learn and implement android's new features & framework.
 
 ### Prerequisites
 *   Android Studio Flamingo | 2022.2.1 Patch 1
 *   Java JDK 17 or 11
-## Setup
+
 
 #### The Movie Database API
 1. Sign up and retrieve a API key from [The Movie Database API](https://www.themoviedb.org/documentation/api)
